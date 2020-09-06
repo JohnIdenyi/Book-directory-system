@@ -1,0 +1,21 @@
+{
+  "name": "john_ejima",
+  "version": "1.0.0",
+  "description": "Genesis Task for John Ejima",
+  "main": "index.js",
+  "author": "John Ejima",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "mongoose": "^5.10.2",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
